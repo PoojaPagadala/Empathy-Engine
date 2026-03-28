@@ -170,13 +170,6 @@ empathy-engine/
 
 ---
 
-##  Limitations
-
-* VADER struggles with sarcasm and complex linguistic context
-* Limited to 3 emotion classes
-* pyttsx3 produces less natural voice compared to modern neural TTS
-
----
 
 ##  Conclusion
 
